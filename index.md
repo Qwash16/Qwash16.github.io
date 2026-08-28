@@ -1,10 +1,5 @@
 # Ashton Quayle
-
-\### Profile
-
-\- \*\*Started\*\*: today’s date
-
-\- \*\*Role\*\*: Software Developer
-
-\- \*\*Hobbies\*\*: Rowing, Reading, and Role-playing
-
+## Profile
+- **Started**: 28th August 2026
+- **Role**: Software Developer 
+- **Hobbies**: Rowing, Reading, Role-playing 
